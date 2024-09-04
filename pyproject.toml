@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "mulheres-cientistas-api"
+version = "0.1.0"
+description = "API do Curso de FastAPI do PyLadies São Carlos"
+authors = ["Juliana Karoline <julianaklulo@gmail.com>"]
+readme = "README.md"
+packages = [{include = "mulheres_cientistas_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = {extras = ["standard"], version = "^0.112.0"}
+pydantic = "^2.8.2"
+sqlalchemy = "^2.0.20"
+uvicorn = "^0.23.2"
+sqlmodel = "^0.0.21"
+pydantic-settings = "^2.4.0"
+
+[tool.poetry.dev-dependencies]
+ruff = "^0.6.2"
+
+[tool.ruff.lint]
+select = ["I"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

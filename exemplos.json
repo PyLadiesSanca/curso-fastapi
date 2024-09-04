@@ -1,0 +1,53 @@
+[
+    {
+        "nome": "Ada Lovelace",
+        "descrição": "Matemática, escritora e tradutora",
+        "data_nascimento": "10/12/1815",
+        "data_morte": "27/11/1852",
+        "img_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/220px-Ada_Lovelace_portrait.jpg",
+        "wikipedia_link": "https://pt.wikipedia.org/wiki/Ada_Lovelace",
+        "frases": [
+            "Quanto mais estudo, mais sinto que minha mente nisso é insaciável.",
+            "Meu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso.",
+            "Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender."
+        ]
+    },
+    {
+        "nome": "Katherine Johnson",
+        "descrição": "Física, cientista espacial e matemática",
+        "data_nascimento": "26/08/1918",
+        "data_morte": "24/02/2020",
+        "img_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Katherine_Johnson_1983.jpg/1280px-Katherine_Johnson_1983.jpg",
+        "wikipedia_link": "https://pt.wikipedia.org/wiki/Katherine_Johnson",
+        "frases": [
+            "Goste do que faz, e então você fará o seu melhor.",
+            "Você fará melhor se fizer com que outras pessoas queiram aprender.",
+            "Matemática está apenas lá. Ou você está certo, ou está errado. É disso que eu gosto nela."
+        ]
+    },
+    {
+        "nome": "Marie Curie",
+        "descrição": "Física e química",
+        "data_nascimento": "07/11/1867",
+        "data_morte": "04/07/1934",
+        "img_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marie_Curie_c1920.jpg/220px-Marie_Curie_c1920.jpg",
+        "wikipedia_link": "https://pt.wikipedia.org/wiki/Marie_Curie",
+        "frases": [
+            "Nada na vida deve ser temido, somente compreendido. Agora é hora de compreender mais para temer menos.",
+            "Seja menos curioso sobre as pessoas e mais curioso sobre ideias",
+            "Um cientista no seu laboratório não é apenas um técnico: é, também, uma criança colocada à frente de fenômenos naturais que impressionam como se fossem um conto de fadas."
+        ]
+    },
+    {
+        "nome": "Rosalind Franklin",
+        "descrição": "Biofísica e cristalógrafa",
+        "data_nascimento": "25/07/1920",
+        "data_morte": "16/04/1958",
+        "img_link": "https://upload.wikimedia.org/wikipedia/pt/9/97/Rosalind_Franklin.jpg",
+        "wikipedia_link": "https://pt.wikipedia.org/wiki/Rosalind_Franklin",
+        "frases": [
+            "A Ciência e a vida cotidiana não podem e não devem ser separados.",
+            "Qual é a utilidade de fazer todo esse trabalho se não nos divertimos com isso?"
+        ]
+    }
+]
