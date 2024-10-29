@@ -31,7 +31,7 @@ poetry shell
 ```
 5. Execute o servidor
 ```bash
-poetry run fastapi dev run mulheres_cientistas_api/main.py
+poetry run fastapi dev mulheres_cientistas_api/main.py
 ```
 
 ## Conteúdo
